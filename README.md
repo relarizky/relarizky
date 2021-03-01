@@ -1,10 +1,5 @@
 ## ✨ Hi there, I'm Relarizky 
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/relarizky?style=social">
-  <img src="https://img.shields.io/github/stars/relarizky?style=social">
-</p>
-
 ### ✨ I'm a student and IT Enthusiast
 
 - 🌱 I'm currently learning Python and Shell
