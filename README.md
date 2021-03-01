@@ -1,7 +1,6 @@
 ## ✨ Hi there, I'm Relarizky 
 
 <p align="center">
-  <img src="https://img.shields.io/twitter/follow/amnotageek_?style=social">
   <img src="https://img.shields.io/github/followers/relarizky?style=social">
   <img src="https://img.shields.io/github/stars/relarizky?style=social">
 </p>
