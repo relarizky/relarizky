@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm a student who have passion in Computer. Especially Programming, Networking and Security.\
+I'm a student who has passion in Computer. Especially Programming, Networking and Security.\
 I'm currently learning Fundamental of Networking and Bash Scripting as tech for helping me to do computer stuff.\
 I love exploring new things in computer fields that i'm really into.
 
