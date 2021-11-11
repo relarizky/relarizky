@@ -1,16 +1,10 @@
-## ✨ Hi there, I'm Relarizky 
+## ✨ Hi there!
 
 <a href="https://facebook.com/farel.py"><img src="https://img.shields.io/badge/-Relarizky-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://instagram.com/farel.py"><img src="https://img.shields.io/badge/-@farel.py_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/farel-ar/"><img src="https://img.shields.io/badge/-Farel Ananda Rizky-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://github.com/relarizky"><img src="https://img.shields.io/github/followers/relarizky?style=social"></a>
 <a href="https://github.com/relarizky"><img src="https://img.shields.io/github/stars/relarizky?style=social"></a>
-
-### 👨🏻‍💻 About Me
-
-I'm a student who has passion in Computer. Especially Programming, Networking and Security.\
-I'm currently learning Fundamental of Networking and Bash Scripting as tech for helping me to do computer stuff.\
-I love exploring new things in computer fields that i'm really into.
 
 ### 🛠 Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
